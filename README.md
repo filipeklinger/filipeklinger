@@ -1,6 +1,13 @@
 ### Hi there 👋
-- 🔭 I’m currently working on React js applications
-- 
+
+- 🔭 I’m currently working on
+- React js applications
+- using tailwind CSS ❤️
+- Typescript 😄
+- Tanstack query
+
+
+
 <div>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=filipeklinger&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=filipeklinger&layout=compact"/>
